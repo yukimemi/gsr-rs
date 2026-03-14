@@ -4,7 +4,7 @@ name = "gsr"
 version = "0.4.2"
 
 [dependencies]
-lazy_static = "0.2.9"
+lazy_static = "1.0.0"
 regex = "0.2.2"
 structopt = "0.1.4"
 structopt-derive = "0.1.4"
